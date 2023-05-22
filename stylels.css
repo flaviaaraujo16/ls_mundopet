@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: #2c6782;
+    font-family: thin;
+    font-size: Now font;
+}
+
+h2 {
+    text-align: center;
+    color: #559aa2;
+    font-family: "https://fonts.cdnfonts.com/css/now";
+    margin-top: 12px;
+}
+
+div {
+    display: flex;
+    justify-content:center;
+}
+
+img {
+    width: 30%;
+    margin-top: 15px;
+}
+
+button {
+    background-color: #559aa2;
+    align-items: center;
+    justify-items: center;
+
+
+}
+
